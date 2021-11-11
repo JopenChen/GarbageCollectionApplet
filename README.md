@@ -1,0 +1,2 @@
+# GarbageCollectionApplet
+主要提供居民用户垃圾预约上门回收服务等便民设施
